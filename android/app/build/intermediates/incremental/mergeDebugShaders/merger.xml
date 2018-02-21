@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/johndrick/Desktop/projects/udemy/react-native-the-practical-guide/react-native-awesome-places-app-c/android/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/johndrick/Desktop/projects/udemy/react-native-the-practical-guide/react-native-awesome-places-app-c/android/app/src/debug/shaders"/></dataSet></merger>
